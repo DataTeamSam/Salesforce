@@ -1,4 +1,3 @@
-,0
 WILMDIVISION,category
 WILMORGNAME,category
 WILMORGNAMECODE,category
@@ -44,3 +43,4 @@ CNLABEL,float32
 CLUSTER,int64
 CLUSTERCAT,category
 WEEK,float32
+PREDICTIONS,float64
